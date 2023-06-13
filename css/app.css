@@ -24,3 +24,7 @@ header.navbar-container {
     padding-block: 1rem;          /* membuat padding secara vertikal sebanyak 1rem */
     z-index: 999;          /* membuat elemen berada di depan sebanyak 999 */
 }
+
+header.navbar-container .logo img {
+    width: 150px;          /* menambahkan ukuran logo gambar menjadi 150px */
+}
