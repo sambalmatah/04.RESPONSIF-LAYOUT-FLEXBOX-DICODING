@@ -14,9 +14,10 @@ body {
 }
 
 header.navbar-container {
-    max-width: 1200px;
-    width: 100%;
-    margin-inline: auto;
-    display: flex;
-    justify-content: space-around;
+    max-width: 1200px;          /* membuat elemen memiliki lebar 1200px */
+    width: 100%;          /* membuat lebar dimaksimalkan 100% */
+    margin-inline: auto;          /* membuat elemen berada di tengah jika lebar layar lebih dari 1200px */
+    display: flex;          /* membuat elemen menjadi flexbox */
+    justify-content: space-around;          /* membuat objek berpencar */
+    align-items: center;          /* membuat objek berada di tengah secara vertical */
 }
