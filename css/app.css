@@ -32,4 +32,5 @@ header.navbar-container .logo img {
 header.navbar-container .nav-list ul {
     padding-left: 0;          /* menghilangkan padding di sebelah kiri elemen */
     display: flex;          /* membuat elemen menajdi flexbox */
+    justify-content: center;          /* membuat objek berada di tengah secara horizontal */
 }
