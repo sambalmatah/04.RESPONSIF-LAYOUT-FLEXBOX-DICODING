@@ -22,4 +22,5 @@ header.navbar-container {
     align-items: center;          /* membuat objek berada di tengah secara vertical */
 
     padding-block: 1rem;          /* membuat padding secara vertikal sebanyak 1rem */
+    z-index: 999;          /* membuat elemen berada di depan sebanyak 999 */
 }
