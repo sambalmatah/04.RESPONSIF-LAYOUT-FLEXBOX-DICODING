@@ -20,4 +20,6 @@ header.navbar-container {
     display: flex;          /* membuat elemen menjadi flexbox */
     justify-content: space-around;          /* membuat objek berpencar */
     align-items: center;          /* membuat objek berada di tengah secara vertical */
+
+    padding-block: 1rem;          /* membuat padding secara vertikal sebanyak 1rem */
 }
