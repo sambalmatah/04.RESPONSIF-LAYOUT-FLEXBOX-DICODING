@@ -51,5 +51,6 @@ header.navbar-container .nav-list li a{
 }
 
 header.navbar-container .nav-list li:hover a {
-    background-color: #425c77; /* menambahkan warna background berwarna abbu-abu */
+    background-color: #425c77; /* membuat warna background berwarna abbu-abu */
+    color: white; /* membuat font berwarna putih */
 }
