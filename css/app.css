@@ -54,3 +54,7 @@ header.navbar-container .nav-list li:hover a {
     background-color: #425c77; /* membuat warna background berwarna abbu-abu */
     color: white; /* membuat font berwarna putih */
 }
+
+main {
+    max-width: 1200px; /* membuat lebar konten sebanyak 1200px */
+}
