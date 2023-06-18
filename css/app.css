@@ -57,4 +57,5 @@ header.navbar-container .nav-list li:hover a {
 
 main {
     max-width: 1200px; /* membuat lebar konten sebanyak 1200px */
+    width: 100%; /* membuat lebar sebanyak 100% dari max-width */
 }
