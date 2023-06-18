@@ -44,4 +44,5 @@ header.navbar-container .nav-list li a{
     text-decoration: none; /* menghilangkan text decoration garis bawah dan warna biru */
     font-size: 1.05rem; /* membuat font size menjadi 16px * 1.05rem */
     font-weight: 500; /* membuat font weight menjadi lebih besar sedikit dari normal */
+    color: black; /* membuat warna font menjadi hitam */
 }
