@@ -49,3 +49,7 @@ header.navbar-container .nav-list li a{
     border-radius: 999px; /* membuat radius pada elemen nav-list>li>a secara tak terlihat karena belum menentukan warna */
     transition: all .2s ease-in-out; /* membuat transisi perpindahan berada pada 0.2 detik secara perlahan */
 }
+
+header.navbar-container .nav-list li:hover a {
+    background-color: #425c77; /* menambahkan warna background berwarna abbu-abu */
+}
