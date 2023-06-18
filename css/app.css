@@ -59,4 +59,5 @@ main {
     max-width: 1200px; /* membuat lebar konten sebanyak 1200px */
     width: 100%; /* membuat lebar sebanyak 100% dari max-width */
     margin-inline: auto; /* membuat margin berada di tengah-tengah lebar layar */
+    padding: 2rem 4rem; /* membuat padding sebanyak 2 rem secara vertikal dan 4rem secara horizontal */
 }
