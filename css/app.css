@@ -115,4 +115,5 @@ main .content .content-image {
 main .content .content-image img {
     margin: auto; /* membuat margin image menjadi auto */
     min-width: 250px; /* membuat lebar minimal = 250px */
+    width: 300px; /* membuat lebar gambar menjadi 300px */
 }
