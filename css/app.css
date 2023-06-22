@@ -83,4 +83,5 @@ main .content .content-description .title {
 
 main .content .content-description p {
     line-height: 1.7rem; /* membuat tinggi dari line-height sebanyak 1.7rem */
+    font-size: 1.2rem; /* membuat font berukuran 1.2 * 16px */
 }
