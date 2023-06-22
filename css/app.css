@@ -69,4 +69,5 @@ main {
 main .content {
     flex: 1; /* membuat tampilan flex-grow: 1, flex-shrink:1 = 1 ukuran window */
     display: flex; /* membuat tampilan dengan display block */
+    align-items: center; /* membuat item berada di tengah secara cross axis dari flexbox */
 }
