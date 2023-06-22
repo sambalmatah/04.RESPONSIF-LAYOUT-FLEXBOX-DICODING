@@ -111,3 +111,7 @@ main .content .content-image {
     flex: 1; /*  membuat tampilan flex-grow: 1, flex-shrink: 1, = 1 ukuran  window */
     display: flex; /* membuat tampilan dengan tampilan block */
 }
+
+main .content .content-image img {
+    margin: auto; /* membuat margin image menjadi auto */
+}
