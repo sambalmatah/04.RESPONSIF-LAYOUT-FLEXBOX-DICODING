@@ -88,4 +88,5 @@ main .content .content-description p {
 
 main .content .content-description button {
     padding: 0.8rem 2.5rem; /* membuat padding pada button */
+    margin-block-start: 1rem; /*menambahkan kotak margin start pada button */
 }
