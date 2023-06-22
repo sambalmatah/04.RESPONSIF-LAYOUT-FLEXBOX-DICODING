@@ -94,5 +94,5 @@ main .content .content-description button {
     font-size: 1rem; /* membuat font berukuran 1 * 16px */
     font-family: 'Quicksand', sans-serif; /* membuat font-family menjadi sans-serif */
     color: white; /* membuat warna huruf menjadi putih */
-    
+    border: 3px solid transparent; /* membuat border dengan ukuran 3px dengan warna solid transparent */
 }
