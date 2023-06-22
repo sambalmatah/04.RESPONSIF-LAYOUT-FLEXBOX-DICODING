@@ -65,3 +65,7 @@ main {
     display: flex; /* membuat tampilan aside bergeser ke kanan */
     align-items: center; /* membuat semua item berada di tengah flexbox terhadap cross axis */
 }
+
+main .content {
+    flex: 1; /* membuat tampilan flex-grow: 1, flex-shrink:1 = 1 ukuran window */
+}
