@@ -90,4 +90,7 @@ main .content .content-description button {
     padding: 0.8rem 2.5rem; /* membuat padding pada button */
     margin-block-start: 1rem; /* menambahkan kotak margin start pada button */
     text-transform: uppercase; /* membuat huruf menjadi uppercase */
+    font-weight: 700; /* membuat font berukuran bold */
+    font-size: 1rem; /* membuat font berukuran 1 * 16px */
+    font-family: 'Quicksand', sans-serif; /* membuat font-family menjadi sans-serif */
 }
