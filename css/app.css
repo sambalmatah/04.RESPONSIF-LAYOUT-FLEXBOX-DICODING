@@ -61,4 +61,6 @@ main {
     margin-inline: auto; /* membuat margin berada di tengah-tengah lebar layar */
     padding: 2rem 4rem; /* membuat padding sebanyak 2 rem secara vertikal dan 4rem secara horizontal */
     flex: 1; /* mem buat elemen di dalam div menjadu lebih terak */
+
+    display: flex; /* Membuat tampilan aside bergeser ke kanan */
 }
