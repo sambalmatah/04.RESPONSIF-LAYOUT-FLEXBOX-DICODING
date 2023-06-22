@@ -75,3 +75,7 @@ main .content {
 main .content .content-description {
     flex: 1 1; /* membuat tampilan flex-grow: 1, flex-shrink: 1, = 1 ukuran window */
 }
+
+main c.content .content-description .title {
+    font-size: 3.5rem; /* membuat font beukuran 3.5 * 16px */
+}
