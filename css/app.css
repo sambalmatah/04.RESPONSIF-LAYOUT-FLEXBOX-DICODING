@@ -96,4 +96,5 @@ main .content .content-description button {
     color: white; /* membuat warna huruf menjadi putih */
     border: 3px solid transparent; /* membuat border dengan ukuran 3px dengan warna solid transparent */
     border-radius: 999px; /* membuat border radius */
+    background-color: #2d3e50; /* membuat warna background berwarna abu2 tua */
 }
