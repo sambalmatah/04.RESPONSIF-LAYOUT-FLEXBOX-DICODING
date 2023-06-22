@@ -80,3 +80,7 @@ main .content .content-description .title {
     font-size: 3.5rem; /* membuat font beukuran 3.5 * 16px */
     margin-block: 1rem; /*membuat margin-blok memiliki nilai 1 rem */
 }
+
+main .content .content-description p {
+    line-height: 1.7rem; /* membuat tinggi dari line-height sebanyak 1.7rem */
+}
