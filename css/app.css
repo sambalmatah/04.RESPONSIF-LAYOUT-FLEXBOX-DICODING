@@ -104,4 +104,5 @@ main .content .content-description button {
 main .content .content-description button:hover {
     border: 3px solid #2d3e50; /* membuat border dengan ukuran 3px warna solid abu2 tua */
     color: #2d3e50; /* membuat font berwarna putih */
+    background-color: transparent; /* membuat warna background menjadi transparent */
 }
