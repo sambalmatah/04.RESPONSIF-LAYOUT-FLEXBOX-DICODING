@@ -117,3 +117,7 @@ main .content .content-image img {
     min-width: 250px; /* membuat lebar minimal = 250px */
     width: 300px; /* membuat lebar gambar menjadi 300px */
 }
+
+main aside {
+    position: fixed; /* membuat elemen berada diluar flow normal */
+}
