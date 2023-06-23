@@ -134,4 +134,5 @@ main aside .social-media ul {
     margin: auto; /* membuat margin berada auto(ditengah) secara vertikal dan horizontal */
     background-color: #2d3e50; /* membuat warna background elemen menjadi abu2 tua */
     border-top-left-radius: 12px; /* membuat border melonjong sebanyak 12px */
+    border-bottom-left-radius: 12px; /* membuat border melonjong sebanyak 12px */
 }
