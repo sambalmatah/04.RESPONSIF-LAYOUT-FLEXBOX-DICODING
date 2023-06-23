@@ -126,4 +126,5 @@ main aside {
 
 main aside .social-media {
     height: 100%; /* membuat tinggi elemen menjadi 100% */
+    display: flex; /* membuat elemen memiliki display flexbox */
 }
