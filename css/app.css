@@ -148,3 +148,6 @@ main aside .social-media li {
 
 main aside .social-media li a {
     text-decoration: none; /* membuat text-decor dengan warna normal */
+    font-size: 1.5rem; /* membuat ukuran font = 1.5rem */
+    
+}    
