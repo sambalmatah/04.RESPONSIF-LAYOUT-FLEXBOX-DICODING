@@ -138,4 +138,5 @@ main aside .social-media ul {
     display: flex; /* membuat elemen memiliki display flexbox */
     flex-flow: column nowrap; /* membuat tampilan diatur seperti kolom (secara vertikal) */
     align-items: center; /* membuat item elemen berada di tengah secara cross axis */
+    justify-content: center; /* membuat item elemen berkumpul berada pada tengah main axis */
 }
