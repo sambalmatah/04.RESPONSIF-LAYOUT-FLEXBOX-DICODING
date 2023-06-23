@@ -123,3 +123,7 @@ main aside {
     inset-block: 0; /* membuat elemen memiliki celah antara elemen tersebut dengan elemen parent */
     inset-inline-end: 0; /* membuat elemen berada di ujung dengan nilai 0 dari ujung */
 }
+
+main aside .social-media {
+    height: 100%; /* membuat tinggi elemen menjadi 100% */
+}
