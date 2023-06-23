@@ -139,4 +139,5 @@ main aside .social-media ul {
     flex-flow: column nowrap; /* membuat tampilan diatur seperti kolom (secara vertikal) */
     align-items: center; /* membuat item elemen berada di tengah secara cross axis */
     justify-content: center; /* membuat item elemen berkumpul berada pada tengah main axis */
+    gap: 1.5rem; /* membuat celah item di atur sebanyak 1.5rem */
 }
