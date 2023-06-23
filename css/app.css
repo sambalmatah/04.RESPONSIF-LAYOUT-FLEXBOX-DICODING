@@ -145,3 +145,6 @@ main aside .social-media ul {
 main aside .social-media li {
     list-style-type: none; /* membuat style list (bullet dot) menjadi hilang */
 }
+
+main aside .social-media li a {
+    text-decoration: none; /* membuat text-decor dengan warna normal */
