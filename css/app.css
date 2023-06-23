@@ -135,4 +135,5 @@ main aside .social-media ul {
     background-color: #2d3e50; /* membuat warna background elemen menjadi abu2 tua */
     border-top-left-radius: 12px; /* membuat border melonjong sebanyak 12px */
     border-bottom-left-radius: 12px; /* membuat border melonjong sebanyak 12px */
+    display: flex; /* membuat elemen memiliki display flexbox */
 }
