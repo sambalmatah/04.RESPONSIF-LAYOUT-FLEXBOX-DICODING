@@ -141,3 +141,7 @@ main aside .social-media ul {
     justify-content: center; /* membuat item elemen berkumpul berada pada tengah main axis */
     gap: 1.5rem; /* membuat celah item di atur sebanyak 1.5rem */
 }
+
+main aside .social-media li {
+    list-style-type: none; /* membuat style list (bullet dot) menjadi hilang */
+}
