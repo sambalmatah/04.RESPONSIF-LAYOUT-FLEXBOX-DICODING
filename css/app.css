@@ -120,4 +120,5 @@ main .content .content-image img {
 
 main aside {
     position: fixed; /* membuat elemen berada diluar flow normal */
+    inset-block: 0; /* membuat elemen memiliki celah antara elemen tersebut dengan elemen parent */
 }
