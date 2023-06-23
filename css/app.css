@@ -128,3 +128,7 @@ main aside .social-media {
     height: 100%; /* membuat tinggi elemen menjadi 100% */
     display: flex; /* membuat elemen memiliki display flexbox */
 }
+
+main aside .social-media ul {
+    padding: 1.5rem 1rem; /* memebuat padding pada elemen */
+}
