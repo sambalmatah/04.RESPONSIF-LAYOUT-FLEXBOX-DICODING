@@ -136,4 +136,5 @@ main aside .social-media ul {
     border-top-left-radius: 12px; /* membuat border melonjong sebanyak 12px */
     border-bottom-left-radius: 12px; /* membuat border melonjong sebanyak 12px */
     display: flex; /* membuat elemen memiliki display flexbox */
+    flex-flow: column nowrap; /* membuat tampilan diatur seperti kolom (secara vertikal) */
 }
