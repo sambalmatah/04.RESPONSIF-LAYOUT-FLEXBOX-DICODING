@@ -179,4 +179,8 @@ main aside .social-media li a:hover {
     main {
         padding: 1rem 3rem;
     }
+
+    main .content .content-description .title {
+        font-size: 3rem;
+    }
 }
