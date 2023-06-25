@@ -156,3 +156,9 @@ main aside .social-media li a {
 main aside .social-media li a:hover {
     color: bisque; /* membuat warna icon menjadi berubah saat hover */
 }
+
+
+/* ---   End of Main Content   --- */
+
+/* --- Medium devices (landscape tablets, 768x and down) --- */
+@media screen and (max-width: 768px) {}
