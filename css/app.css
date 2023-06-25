@@ -173,5 +173,6 @@ main aside .social-media li a:hover {
 
     main .content {
         flex-direction: column;
+        gap: 2rem;
     }
 }
